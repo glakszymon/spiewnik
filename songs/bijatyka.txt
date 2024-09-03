@@ -1,0 +1,44 @@
+    No i...<br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Znów bijatyka, no!</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Znów bijatyka, no!</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Bijatyka cały<code class='nuta'>G</code> dzień</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>I porąbany dzień, <code class='nuta'>C</code>i porąbany łeb,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>F</code>Razem bracia,<code class='nuta'>G</code> aż po <code class='nuta'>a</code>zmierzch!</span><br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>To dwudziesty czwarty był lutego,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>G</code>Poranna zrzedła mgła,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>Wyszło z niej siedem uzbrojonych kryp,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>F</code>Turecki<code class='nuta'>G</code> niosły<code class='nuta'>a</code> znak.</span><br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Znów bijatyka, no!</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Znów bijatyka, no!</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Bijatyka cały<code class='nuta'>G</code> dzień</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>I porąbany dzień, <code class='nuta'>C</code>i porąbany łeb,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>F</code>Razem bracia,<code class='nuta'>G</code> aż po <code class='nuta'>a</code>zmierzch!</span><br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Już pierwszy skrada się do burt,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>G</code>A zwie się "Goździk" i</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>Z Algieru Pasza wysłał go,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>F</code>Żeby nam <code class='nuta'>G</code>upuścił <code class='nuta'>a</code>krwi.</span><br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Znów bijatyka, no!</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Znów bijatyka, no!</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Bijatyka cały<code class='nuta'>G</code> dzień</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>I porąbany dzień, <code class='nuta'>C</code>i porąbany łeb,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>F</code>Razem bracia,<code class='nuta'>G</code> aż po <code class='nuta'>a</code>zmierzch!</span><br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Następny zbliża się do burt,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>G</code>A zwie się "Róży Pąk".</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>Plunęliśmy ze wszystkich rur -</span><br>
+<span class='linijka_tekstu'><code class='nuta'>F</code>Bardzo prędko<code class='nuta'>G</code> szedł na<code class='nuta'>a</code> dno.</span><br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Znów bijatyka, no!</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Znów bijatyka, no!</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Bijatyka cały<code class='nuta'>G</code> dzień</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>I porąbany dzień, <code class='nuta'>C</code>i porąbany łeb,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>F</code>Razem bracia,<code class='nuta'>G</code> aż po <code class='nuta'>a</code>zmierzch!</span><br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>W naszych rękach dwa i dwa na dnie,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>G</code>Cała reszta zwiała gdzieś,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>No a jeden z nich zabraliśmy</span><br>
+<span class='linijka_tekstu'><code class='nuta'>F</code>Na starej<code class='nuta'>G</code> Anglii<code class='nuta'>a</code> brzeg.</span><br>

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Śpiewnik</title>
+    <link rel="stylesheet" href="style.css">
+    
+
+</head>
+ 
+    
+    <!-- <span class="linijka_tekstu">A <div class="nuta">G</div> dziś osładzaj <div class="nuta">F</div> chwile</span>
+    <span class="linijka_tekstu">A dziś osładzaj <div class="nuta">F</div> chwile</span>
+    <span class="linijka_tekstu">A dziś <div class="nuta">a</div> osładzaj <div class="nuta">F</div> chwile</span> -->
+<!-- 
+        <span class='linijka_tekstu'><code class='nuta' >a</code>A kiedy przyjdzie także po <code class='nuta' >G</code>mnie</span>
+        <br>
+        <span class="linijka_tekstu"><code class="nuta" >D</code>Zegarmistrz światła purpu<code class="nuta" >a</code>rowy,</span>
+        <br>
+        <span class="linijka_tekstu"><code class="nuta" >C</code>By mi zabełtać bł<code class="nuta" >G</code>ękit w głowie,</span>
+        <br>
+        <span class="linijka_tekstu"><code class="nuta" >D</code>To będę jasny i go<code class="nuta" >a</code>towy.</span>
+        <br>
+        <span class="linijka_tekstu"><code class="nuta" >C</code>Spłyną przeze mnie dni na prze<code class="nuta" >G</code>strzał.</span>
+        <br>
+        <span class="linijka_tekstu"><code class="nuta" >D</code>Zgasną podłogi i powie<code class="nuta" >a</code>trza.</span>
+        <br>
+        <span class="linijka_tekstu"><code class="nuta" >C</code>Na wszystko jeszcze raz po<code class="nuta" >G</code>patrzę.</span>
+        <br>
+        <span class="linijka_tekstu"><code class="nuta" >D</code>I pójdę, nie wiem gdzie, na <code class="nuta" >a</code>zawsze...</span>
+         -->
+
+
+
+    <header>
+        <h1>Śpiewnik</h1>
+        <div class="menu"></div>
+    </header>
+
+    <nav>
+        <button class="openbtn" onclick="openNav()">
+            <img src="img/menu1.png" class="imgMenu" id="menuSongs">
+        </button>
+
+        <div id="Sidenav" class="sidenav">
+            <a onclick="loadData(0)" class="optionMenu">
+                <div class="titleMenu">
+                    Zegarmistrz światła
+                </div>
+                <div class="autorMenu"> 
+                    Kult
+                </div>
+            </a> <br>
+            <a onclick="loadData(1)" class="optionMenu">
+                <div class="titleMenu">
+                    Morskie opowieści
+                </div>
+                <div class="autorMenu"> 
+                    Szanty
+                </div>
+            </a> <br>
+            <a onclick="loadData(2)" class="optionMenu">
+                <div class="titleMenu">
+                    24 Lutego
+                </div>
+                <div class="autorMenu"> 
+                    Stare Dzwony
+                </div>
+            </a>
+        </div>
+    </nav>
+    <!-- <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+    </a> -->
+
+    <main>
+
+        <!-- <a href="#example">Kliknij, aby przejść pod wskazany odnośnik</a> -->
+
+
+        <!-- <h2>Wybierz piosenkę:</h2>
+        <button onclick="loadPreviousSong()">Load previous song</button>
+        <button onclick="loadNextSong()">Load next song</button> -->
+        
+            <div>
+                <button class="intervalButton" id="increaseInterval">
+                    <img id="increaseIntervalButton" src="img/angle-small-up.png" alt="Zwiększ interwał">
+                </button>
+                <div class="counter">
+                    <div style="display: flex; align-items: center; width: fit-content;">
+                        <div id="intervalDisplay">Opóźnienie: 50 ms</div>
+                        <button id="scrollButton">
+                            <img id="scrollButtonImage" src="img/play-circle.png" alt="Przewiń na dół">
+                            <!-- Przewiń na dół -->
+                        </button>
+                    </div>
+                </div>
+                <button class="intervalButton" id="decreaseInterval">
+                    <img id="decreaseIntervalButton" src="img/angle-small-down.png" alt="Zmniejsz interwał">
+                </button>
+            </div>
+        <!-- <br> -->
+        
+            
+        </div>
+        <!-- <h1>Wyświetlanie Tekstu z Pliku</h1> -->
+        <h2 id="title"></h2>
+        <h3 id="artist"></h3>
+        <h3 id="bicie"></h3>
+        <div id="songContainer"></div>
+        <!-- Songs will be dynamically inserted here -->
+
+
+    </main>
+
+    <footer>
+        <p>© 2023 Śpiewnik</p>
+    </footer>
+
+
+    <script src="script.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/moveTo/1.8.2/moveTo.min.js"></script> -->
+</body>
+</html>

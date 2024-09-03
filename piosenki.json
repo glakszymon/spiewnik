@@ -1,0 +1,25 @@
+{
+    "songs":[
+        {
+            "id":"0", 
+            "title":"Zegarmistrz światła",
+            "artist":"Kult",
+            "bicie":"↓↓↑↑↓↑",
+            "file":"songs/Zegarmistrz.txt"
+        },
+        {
+            "id":"1", 
+            "title":"Morskie Opowieści",
+            "artist":"Szanty",
+            "bicie":"↓↓↑↑↓↑",
+            "file":"songs/MorskieOpowiesci.txt"
+        },
+        {
+            "id":"2",
+            "title":"24 Lutego",
+            "artist":"Stare Dzwony",
+            "bicie":"↓↓↑↑↓↑",
+            "file":"songs/bijatyka.txt"
+        }
+    ]
+}

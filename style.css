@@ -1,0 +1,163 @@
+
+.linijka_tekstu{
+    /* display: flex;
+    margin-top: 30px; */
+    
+    line-height: 3.2em;
+
+    position: relative;
+}
+
+.nuta {
+	/* width: 5px; */
+    /* width: 0;
+	height: 0; */
+	/* margin-top: -20px; */
+	/* font-size: 16px; */
+	/* color: red;
+	font-family: Sans-serif;
+	text-shadow: 1px 1px 2px black;
+    position: relative;
+    top: -1.4em; */
+
+    font-weight: 700;
+    font-size: 100%;
+    word-break: break-word;
+    position: relative;
+    top: -1.4em;
+    width: 0;
+    display: inline-block;
+    color: #db261e;
+
+    font-family: SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+#Sidenav {
+    display: none;
+    position: absolute;
+    right: 0px;
+    min-width: 10rem;
+    background-color: aqua;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.optionMenu{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px solid rgb(114, 114, 114);
+    padding-inline: 1.5rem;
+    padding-block: 0.5rem;
+    cursor: pointer;
+}
+
+.optionMenu:hover{
+    background-color: rgb(114, 114, 114);
+    color: white;
+}
+
+.autorMenu{
+    font-size: 1rem;
+    margin-left: 2rem;
+}
+
+.openbtn{
+
+    position: absolute;
+    right: 2rem;
+    top: 1.4rem;
+    /* height: 2.4rem;
+    width: 2.4rem; */
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+}
+
+header{
+    background-color: #4cc633eb;
+    padding-block: 0.1rem;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(224, 224, 224);
+}
+
+.imgMenu{
+    width: 2.4rem;
+    height: 2.4rem;
+    object-fit: cover;
+    object-position: center;
+}
+
+main{
+    padding-inline: 1rem;
+    padding-block: 1rem;
+}
+
+#increaseIntervalButton{
+    width: 3rem;
+    height: 3rem;
+    object-fit: cover;
+    object-position: center;
+}
+
+
+#decreaseIntervalButton{
+    width: 3rem;
+    height: 3rem;
+    object-fit: cover;
+    object-position: center;
+}
+
+.intervalButton{
+    width: 4rem;
+    height: 3rem;
+    background-color: #00000000;
+    border: none;
+    cursor: pointer;
+
+    display:block; 
+    margin: 0 auto;
+    
+}
+
+#intervalDisplay{
+    /* margin-top: 1rem; */
+    /* margin-bottom: 0.5rem; */
+
+
+    /* text-align: right; */
+    /* font-size: 1.5rem;
+    font-weight: 700; */
+}
+
+.counter{
+    display: block;
+    margin: 0 auto;
+    width: fit-content;    
+}
+
+#scrollButtonImage{
+    width: 3rem;
+    height: 3rem;
+    object-fit: cover;
+    object-position: center;
+}
+
+#scrollButton{
+    width: 3rem;
+    height: 3rem;
+    background-color: #00000000;
+    border: none;
+    cursor: pointer;
+    /* display:block;
+    margin: 0 auto; */
+    margin-left: 0.5rem;
+}
