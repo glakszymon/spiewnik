@@ -1,0 +1,49 @@
+<span class='linijka_tekstu'><code class='nuta'>a</code>Na na na &nbsp;<code class='nuta'>d</code>na , na na &nbsp;<code class='nuta'>a</code>na na</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>Na na na &nbsp;<code class='nuta'>d</code>na , na na &nbsp;<code class='nuta'>a</code>na na</span><br>
+<br>
+<span class="text-muted">1.</span><br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>Piszesz mi w liście, że <code class='nuta'>d</code>kiedy pada,</span><br>
+<span class='linijka_tekstu'>kiedy <code class='nuta'>G</code>nasturcje na deszczu <code class='nuta'>a</code>mokną,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Siadasz przy stole, wyjmu<code class='nuta'>G</code>jesz farby</span><br>
+<span class='linijka_tekstu'>i<code class='nuta'>d</code> kolorowe <code class='nuta'>E</code>otwierasz <code class='nuta'>a</code>okno.</span><br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>Trawy i drzewa są<code class='nuta'>d</code> takie szare,</span><br>
+<span class='linijka_tekstu'>barwę <code class='nuta'>G</code>popiołu przybrały <code class='nuta'>a</code>nieba.</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>W ciszy tak smutno, <code class='nuta'>G</code>szepce zegarek</span><br>
+<span class='linijka_tekstu'><code class='nuta'>d</code>o czasie, co mi <code class='nuta'>E</code>go nie po<code class='nuta'>a</code>trzeba.</span><br>
+<br>
+ <span class="text-muted">Refren</span><br>
+<br>
+<span class='linijka_tekstu'>    Więc <code class='nuta'>C</code>chodź, pomaluj mój <code class='nuta'>d</code>świat</span><br>
+<span class='linijka_tekstu'>    na <code class='nuta'>F</code>żółto i na nie<code class='nuta'>C</code>biesko,</span><br>
+<span class='linijka_tekstu'>    Niech na niebie <code class='nuta'>d</code>stanie tęcza</span><br>
+<span class='linijka_tekstu'>    malo<code class='nuta'>F</code>wana twoją <code class='nuta'>G</code>kredką.</span><br>
+<br>
+<span class='linijka_tekstu'>    Więc <code class='nuta'>C</code>chodź, pomaluj mi <code class='nuta'>d</code>życie,</span><br>
+<span class='linijka_tekstu'>    niech <code class='nuta'>F</code>świat mój się zaru<code class='nuta'>C</code>mieni,</span><br>
+<span class='linijka_tekstu'>    Niech mi zalśni w <code class='nuta'>d</code>pełnym słońcu,</span><br>
+<span class='linijka_tekstu'>    kolo<code class='nuta'>F</code>rami całej <code class='nuta'>G</code>ziemi.</span><br>
+<br>
+<span class="text-muted">Solo</span><br>
+<code class='nutySeria'>a</code> <code class='nutySeria'>d</code> <code class='nutySeria'>G</code> <code class='nutySeria'>a</code><br>
+<code class='nutySeria'>C</code> <code class='nutySeria'>G</code> <code class='nutySeria'>d</code> <code class='nutySeria'>E</code><br>
+<br>
+<span class="text-muted">2.</span><br>
+<br>
+<span class='linijka_tekstu'>Z<code class='nuta'>a</code>a siódmą górą, za s<code class='nuta'>d</code>iódmą rzeką,</span><br>
+<span class='linijka_tekstu'>t<code class='nuta'>G</code>woje sny zamieniasz na pejz<code class='nuta'>a</code>aże.</span><br>
+<span class='linijka_tekstu'>N<code class='nuta'>C</code>iebem się wlecze wyb<code class='nuta'>G</code>lakłe słońce,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>d</code>oświetla ludzkie w<code class='nuta'>E</code>yblakłe tw<code class='nuta'>a</code>arze.</span><br>
+<br>
+<span class="text-muted">Refren</span><br>
+<br>
+<span class='linijka_tekstu'>    Więc <code class='nuta'>C</code>chodź, pomaluj mój <code class='nuta'>d</code>świat</span><br>
+<span class='linijka_tekstu'>    na <code class='nuta'>F</code>żółto i na nie<code class='nuta'>C</code>biesko,</span><br>
+<span class='linijka_tekstu'>    Niech na niebie <code class='nuta'>d</code>stanie tęcza</span><br>
+<span class='linijka_tekstu'>    malo<code class='nuta'>F</code>wana twoją <code class='nuta'>G</code>kredką.</span><br>
+<br>
+<span class='linijka_tekstu'>    Więc <code class='nuta'>C</code>chodź, pomaluj mi <code class='nuta'>d</code>życie,</span><br>
+<span class='linijka_tekstu'>    niech <code class='nuta'>F</code>świat mój się zaru<code class='nuta'>C</code>mieni,</span><br>
+<span class='linijka_tekstu'>    Niech mi zalśni w <code class='nuta'>d</code>pełnym słońcu,</span><br>
+<span class='linijka_tekstu'>    kolo<code class='nuta'>F</code>rami całej <code class='nuta'>G</code>ziemi.</span><br>

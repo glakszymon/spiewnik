@@ -1,0 +1,55 @@
+<span class="text-muted">Wstęp</span><br>
+<code class='nutySeria'>C</code> <code class='nutySeria'>G</code><br>
+<code class='nutySeria'>G</code> <code class='nutySeria'>a</code> <code class='nutySeria'>C</code> <code class='nutySeria'>G</code><br>
+<code class='nutySeria'>G</code> <code class='nutySeria'>a</code> <code class='nutySeria'>C</code> <code class='nutySeria'>G</code><br>
+<br>
+<span class="text-muted">1 zwrotka</span><br>
+<span class='linijka_tekstu'><code class='nuta'>G</code>Baśka miała <code class='nuta'>a </code>fajny biust,</span><br>
+<span class='linijka_tekstu'>Ania <code class='nuta'>C</code>styl, a Zośka coś, co <code class='nuta'>G</code>lubię.</span><br>
+<span class='linijka_tekstu'><code class='nuta'>G</code>Ela cało<code class='nuta'>a </code>wała cudnie,</span><br>
+<span class='linijka_tekstu'>Nawet <code class='nuta'>C</code>tuż po swoim <code class='nuta'>G</code>ślubie.</span><br>
+<span class='linijka_tekstu'><code class='nuta'>G</code>Z Kaśką można było <code class='nuta'>a </code>konie kraść</span><br>
+<span class='linijka_tekstu'>Chociaż <code class='nuta'>C</code>wiem, że chciała przeżyć</span><br>
+<span class='linijka_tekstu'>Ze mną <code class='nuta'>G</code>swój pierwszy raz.</span><br>
+<span class='linijka_tekstu'><code class='nuta'>G</code>Magda - zło, Jolka mnie</span><br>
+<span class='linijka_tekstu'>Zagłas<code class='nuta'>a </code>kałaby na śmierć</span><br>
+<span class='linijka_tekstu'>A Ag<code class='nuta'>C</code>nieszka zdradzała <code class='nuta'>G</code>mnie.</span><br>
+<br>
+<span class="text-muted">Refren</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code> Piękne jak <code class='nuta'>G</code>okręt</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a </code> Pod pełnymi ża<code class='nuta'>e </code>glami,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code> Jak konie w ga<code class='nuta'>G</code>lopie</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a </code> Jak niebo nad <code class='nuta'>e </code>nami.</span><br>
+<br>
+<span class="text-muted">Interludium</span><br>
+<code class='nutySeria'>G</code> <code class='nutySeria'>a</code> <code class='nutySeria'>C</code> <code class='nutySeria'>G</code><br>
+<code class='nutySeria'>G</code> <code class='nutySeria'>a</code> <code class='nutySeria'>C</code> <code class='nutySeria'>G</code><br>
+<br>
+<span class="text-muted">2 zwrotka</span><br>
+<span class='linijka_tekstu'><code class='nuta'>G</code>Karolina w <code class='nuta'>a </code>Hollywood,</span><br>
+<span class='linijka_tekstu'>Z Aśką <code class='nuta'>C</code>nigdy nie było tak <code class='nuta'>G</code>samo,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>G</code>Ewelina <code class='nuta'>a </code>zimna jak lód,</span><br>
+<span class='linijka_tekstu'>Więc na <code class='nuta'>C</code>noc umówiłem się z <code class='nuta'>G</code>Alą.</span><br>
+<span class='linijka_tekstu'><code class='nuta'>G</code>Wszystko mógłbym <code class='nuta'>a </code>Izie dać,</span><br>
+<span class='linijka_tekstu'>Tak jak <code class='nuta'>C</code>Oli, ale one</span><br>
+<span class='linijka_tekstu'>Wcale <code class='nuta'>G</code>nie chciały brać.</span><br>
+<span class='linijka_tekstu'><code class='nuta'>G</code>Małgorzata - jeden grzech</span><br>
+<span class='linijka_tekstu'>Aż o<code class='nuta'>a </code>nieśmielała mnie</span><br>
+<span class='linijka_tekstu'>A Mo<code class='nuta'>C</code>nika była o<code class='nuta'>G</code>kej.</span><br>
+<br>
+<span class="text-muted">Refren</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code> Piękne jak <code class='nuta'>G</code>okręt</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a </code> Pod pełnymi ża<code class='nuta'>e </code>glami,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code> Jak konie w ga<code class='nuta'>G</code>lopie</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a </code> Jak niebo nad <code class='nuta'>e </code>nami.</span><br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>C</code> Piękne jak <code class='nuta'>G</code>okręt</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a </code> Pod pełnymi ża<code class='nuta'>e </code>glami,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code> Jak konie w ga<code class='nuta'>G</code>lopie</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a </code> Jak niebo nad <code class='nuta'>e </code>nami.</span><br>
+<br>
+<span class="text-muted">Wokaliza do wyciszenia</span><br>
+<code class='nutySeria'>G</code> <code class='nutySeria'>a</code> <code class='nutySeria'>C</code> <code class='nutySeria'>G</code><br>
+<code class='nutySeria'>G</code> <code class='nutySeria'>a</code> <code class='nutySeria'>C</code> <code class='nutySeria'>G</code><br>
+<code class='nutySeria'>G</code> <code class='nutySeria'>a</code> <code class='nutySeria'>C</code> <code class='nutySeria'>G</code><br>
+<code class='nutySeria'>G</code><br>

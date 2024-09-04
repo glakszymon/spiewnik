@@ -1,0 +1,43 @@
+<span class='linijka_tekstu'><code class='nuta'>e</code> Widzę jak <code class='nuta'>C</code>zerkasz, <code class='nuta'>G</code>takie dziwne to</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> Chyba <code class='nuta'>C</code>myli ci<code class='nuta'>G</code>ę wzrok</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> Przecież <code class='nuta'>C</code>tutaj <code class='nuta'>G</code>tyle innych pań</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> I miejsca <code class='nuta'>C</code>dla two<code class='nuta'>G</code>ich rąk</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> I miejsca <code class='nuta'>C</code>dla two<code class='nuta'>G</code>ich rąk</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> I miejsca <code class='nuta'>C</code>dla two<code class='nuta'>G</code>ich rąk</span><br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>a</code> Po imprezie zabierz <code class='nuta'>C</code>mnie na kawę</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> Powiem co i <code class='nuta'>D</code>jak skąd to morze łez,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code> Bo ja nadal pojąć <code class='nuta'>C</code>nie potrafię</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code>Jak łatwo przyszło c<code class='nuta'>D</code>i, tak zostawić mnie</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code> Jak kawałki porce<code class='nuta'>C</code>lany <code class='nuta'>e</code>kruszę <code class='nuta'>D</code>się</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code> Więc proszę powiedz, że choć <code class='nuta'>C</code>cząstkę <code class='nuta'>e</code>mnie <code class='nuta'>D</code>chcesz</span><br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> Gdy ściany <code class='nuta'>C</code>iskrzą,<code class='nuta'>G</code> czuły dla mnie bądź</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> Weź mnie do <code class='nuta'>C</code>tańca, <code class='nuta'>G</code>please</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> A ja w tej <code class='nuta'>C</code>kiecce <code class='nuta'>G</code>jeszcze z ubiegłych świąt,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> Ulotnie <code class='nuta'>C</code>się tak j<code class='nuta'>G</code>ak dym</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> Ulotnie <code class='nuta'>C</code>się tak j<code class='nuta'>G</code>ak dym</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> Ulotnie <code class='nuta'>C</code>się tak j<code class='nuta'>G</code>ak dym</span><br>
+<br>
+<span class='linijka_tekstu'>&nbsp;P<code class='nuta'>a</code>o imprezie zabierz mn<code class='nuta'>C</code>ie na kawę</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> Powiem co i <code class='nuta'>D</code>jak skąd to morze łez,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code> Bo ja nadal pojąć <code class='nuta'>C</code>nie potrafię</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code>Jak łatwo przyszło c<code class='nuta'>D</code>i tak zostawić mnie</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code> Jak kawałki porce<code class='nuta'>C</code>lany <code class='nuta'>e</code>kruszę <code class='nuta'>D</code>się</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code> Więc proszę powiedz, że choć <code class='nuta'>C</code>cząstkę <code class='nuta'>e</code>mnie <code class='nuta'>D</code>chcesz</span><br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>a</code> Troszeczkę boli, <code class='nuta'>C</code>gdy obok stoi <code class='nuta'>e</code>szczupła jak osa, <code class='nuta'>D</code>chce papierosa</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code> Dajesz jej ogień, <code class='nuta'>C</code>gadacie sobie</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> Ja przeźroczyst<code class='nuta'>D</code>a, nie widzisz mnie</span><br>
+<br>
+<code data-chord="A" data-suffix="m" data-local="a">a</code>                 <code data-chord="C" data-suffix="" data-local="C">C</code>             <code data-chord="E" data-suffix="m" data-local="e">e</code><br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>D</code> Nie widzisz mnie</span><br>
+<br>
+<span class='linijka_tekstu'>&nbsp;<code class='nuta'>a</code>Po imprezie zabierz m<code class='nuta'>C</code>nie na kawę</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code> Powiem co i <code class='nuta'>D</code>jak skąd to morze łez</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code> Bo ja nadal pojąć <code class='nuta'>C</code>nie potrafię</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code>Jak łatwo przyszło c<code class='nuta'>D</code>i tak zostawić mnie</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code> Jak kawałki porce<code class='nuta'>C</code>lany <code class='nuta'>e</code>kruszę <code class='nuta'>D</code>się</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code> Więc proszę powiedz, że choć <code class='nuta'>C</code>cząstkę <code class='nuta'>e</code>mnie <code class='nuta'>D</code>chcesz</span><br>
+<br>

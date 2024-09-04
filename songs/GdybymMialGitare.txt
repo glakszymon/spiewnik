@@ -1,0 +1,47 @@
+1.<br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>Gdybym miał gitarę,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>To bym na niej <code class='nuta'>a</code>grał<code class='nuta'>A7</code>,&nbsp;</span><br>
+<span class='linijka_tekstu'><code class='nuta'>d</code>Opowiedziałbym <code class='nuta'>a</code>o swej miłości,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Którą przeżyłem <code class='nuta'>a</code>sam.<code class='nuta'>A7</code>&nbsp;&nbsp;</span><br>
+<span class='linijka_tekstu'><code class='nuta'>d</code>Opowiedziałbym <code class='nuta'>a</code>o swej miłości,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Którą przeżyłem <code class='nuta'>a</code>sam.</span><br>
+<br>
+<span class="text-muted">Ref.</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>A wszystko te czarne oczy,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Gdybym ja je <code class='nuta'>a</code>miał.<code class='nuta'>A7</code>&nbsp;&nbsp;</span><br>
+<span class='linijka_tekstu'><code class='nuta'>d</code>Za te czarne, <code class='nuta'>a</code>cudne oczęta</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Serce, duszę bym <code class='nuta'>a</code>dał.<code class='nuta'>A7</code>&nbsp;&nbsp;</span><br>
+<span class='linijka_tekstu'><code class='nuta'>d</code>Za te czarne, <code class='nuta'>a</code>cudne oczęta</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Serce, duszę bym <code class='nuta'>a</code>dał.</span><br>
+<br>
+2.<br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>Fajki ja nie palę,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Wódki nie pi<code class='nuta'>a</code>ję,<code class='nuta'>A7</code>&nbsp;&nbsp;</span><br>
+<span class='linijka_tekstu'><code class='nuta'>d</code>Ale z żalu, <code class='nuta'>a</code>z żalu wielkiego</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Ledwo co ży<code class='nuta'>a</code>ję.<code class='nuta'>A7</code>&nbsp;&nbsp;</span><br>
+<span class='linijka_tekstu'><code class='nuta'>d</code>Ale z żalu, <code class='nuta'>a</code>z żalu wielkiego</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Ledwo co <code class='nuta'>a</code>żyję.</span><br>
+<br>
+<span class="text-muted">Ref.</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>A wszystko te czarne oczy,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Gdybym ja je <code class='nuta'>a</code>miał.<code class='nuta'>A7</code>&nbsp;&nbsp;</span><br>
+<span class='linijka_tekstu'><code class='nuta'>d</code>Za te czarne, <code class='nuta'>a</code>cudne oczęta</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Serce, duszę bym <code class='nuta'>a</code>dał.<code class='nuta'>A7</code>&nbsp;&nbsp;</span><br>
+<span class='linijka_tekstu'><code class='nuta'>d</code>Za te czarne, <code class='nuta'>a</code>cudne oczęta</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Serce, duszę bym <code class='nuta'>a</code>dał.</span><br>
+<br>
+3.<br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>Ludzie mówią: głupiś,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Po coś ty ją <code class='nuta'>a</code>brał,<code class='nuta'>A7</code>&nbsp;&nbsp;</span><br>
+<span class='linijka_tekstu'><code class='nuta'>d</code>Po coś to dziewczę <code class='nuta'>a</code>czarne figlarne,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Mocno poko<code class='nuta'>a</code>chał.<code class='nuta'>A7</code>&nbsp;&nbsp;</span><br>
+<span class='linijka_tekstu'><code class='nuta'>d</code>Po coś to dziewczę <code class='nuta'>a</code>czarne figlarne,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Mocno poko<code class='nuta'>a</code>chał.</span><br>
+<br>
+<span class="text-muted">Ref.</span><br>
+<span class='linijka_tekstu'><code class='nuta'>a</code>A wszystko te czarne oczy,</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Gdybym ja je <code class='nuta'>a</code>miał.<code class='nuta'>A7</code>&nbsp;&nbsp;</span><br>
+<span class='linijka_tekstu'><code class='nuta'>d</code>Za te czarne, <code class='nuta'>a</code>cudne oczęta</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Serce, duszę bym <code class='nuta'>a</code>dał.<code class='nuta'>A7</code>&nbsp;&nbsp;</span><br>
+<span class='linijka_tekstu'><code class='nuta'>d</code>Za te czarne, <code class='nuta'>a</code>cudne oczęta</span><br>
+<span class='linijka_tekstu'><code class='nuta'>E</code>Serce, duszę bym <code class='nuta'>a</code>dał.</span><br>

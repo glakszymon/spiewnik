@@ -1,0 +1,41 @@
+( <code class='nutySeria'>C</code> <code class='nutySeria'>E</code> <code class='nutySeria'>a</code> <code class='nutySeria'>F</code> / <code class='nutySeria'>C</code> <code class='nutySeria'>E</code> <code class='nutySeria'>a</code> <code class='nutySeria'>G</code> )<br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Zadzwoniłem w <code class='nuta'>E</code>środku lata&nbsp;<code class='nuta'>a</code>&nbsp;</span><br>
+<span class='linijka_tekstu'>choć minęły <code class='nuta'>F</code>już dwa lata</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Ty nadal <code class='nuta'>E</code>nie odzywasz s<code class='nuta'>a</code>ię &nbsp;&nbsp;<code class='nuta'>G</code>&nbsp;&nbsp;<code class='nuta'>C</code>&nbsp;</span><br>
+<span class='linijka_tekstu'>Dziś ten list Ci<code class='nuta'>E</code> napisałem&nbsp;&nbsp;<code class='nuta'>a</code>&nbsp;</span><br>
+<span class='linijka_tekstu'>lato zbliża s<code class='nuta'>F</code>ię więc chciałem</span><br>
+<span class='linijka_tekstu'>P<code class='nuta'>C</code>owtórzyć <code class='nuta'>E</code>tobie jeszcze <code class='nuta'>a</code>raz &nbsp;<code class='nuta'>G</code>to co wtedy</span><br>
+<br>
+<span class="text-muted">Ref</span>;<br>
+<br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być, przez całe lato</span><br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być, kochaj mnie za to</span><br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być, tylko we dwoje</span><br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być.</span><br>
+<br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być, przez całe lato</span><br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być, kochaj mnie za to</span><br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być, tylko we dwoje</span><br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być.</span><br>
+<br>
+ ( <code class='nutySeria'>C</code> <code class='nutySeria'>E</code> <code class='nutySeria'>a</code> <code class='nutySeria'>F</code> / <code class='nutySeria'>C</code> <code class='nutySeria'>E</code> <code class='nutySeria'>a</code> <code class='nutySeria'>G</code> )<br>
+<br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>Daj się skusić <code class='nuta'>E</code>na wakacje&nbsp;&nbsp;<code class='nuta'>a</code>&nbsp;</span><br>
+<span class='linijka_tekstu'>Morze, plaża <code class='nuta'>F</code>i kolacje</span><br>
+<span class='linijka_tekstu'>Bę<code class='nuta'>C</code>dziemy t<code class='nuta'>E</code>ańczyć aż po ś<code class='nuta'>a</code>wit <code class='nuta'>G</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code class='nuta'>C</code>&nbsp;</span><br>
+<span class='linijka_tekstu'>Chciałbym też w <code class='nuta'>E</code>księżyca blasku&nbsp;&nbsp;<code class='nuta'>a</code>&nbsp;</span><br>
+<span class='linijka_tekstu'>Stawiać z tobą <code class='nuta'>F</code>babki z piasku</span><br>
+<span class='linijka_tekstu'><code class='nuta'>C</code>I wciąż do u<code class='nuta'>E</code>cha szeptać C<code class='nuta'>a</code>i <code class='nuta'>G</code>tak jak wtedy</span><br>
+<br>
+<span class="text-muted">Ref</span>;<br>
+<br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być, przez całe lato</span><br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być, kochaj mnie za to</span><br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być, tylko we dwoje</span><br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być.</span><br>
+<br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być, przez całe lato</span><br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być, kochaj mnie za to</span><br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być, tylko we dwoje</span><br>
+<span class='linijka_tekstu'>Za<code class='nuta'>F</code>wsze z tobą chcia<code class='nuta'>G</code>łbym <code class='nuta'>C</code>być.</span><br>

@@ -5,21 +5,120 @@
             "title":"Zegarmistrz światła",
             "artist":"Kult",
             "bicie":"↓↓↑↑↓↑",
-            "file":"songs/Zegarmistrz.txt"
+            "file":"songs/Zegarmistrz.txt",
+            "kapo":""
         },
         {
             "id":"1", 
             "title":"Morskie Opowieści",
             "artist":"Szanty",
             "bicie":"↓↓↑↑↓↑",
-            "file":"songs/MorskieOpowiesci.txt"
+            "file":"songs/MorskieOpowiesci.txt",
+            "kapo":""
         },
         {
             "id":"2",
             "title":"24 Lutego",
             "artist":"Stare Dzwony",
             "bicie":"↓↓↑↑↓↑",
-            "file":"songs/bijatyka.txt"
+            "file":"songs/bijatyka.txt",
+            "kapo":""
+        },
+        {
+            "id":"3",
+            "title":"Cząstka",
+            "artist":"Sanach",
+            "bicie":"struna basowa, ↓↓",
+            "file":"songs/Czastka.txt",
+            "kapo":"Pierwszy próg"
+        },
+        {
+            "id":"4",
+            "title":"Dni których nie znamy",
+            "artist":"Marek Grechuta",
+            "bicie":"↓↓↑↑↓↑",
+            "file":"songs/DniKtorychNieZnamy.txt",
+            "kapo":""
+        },
+        {
+            "id":"5",
+            "title":"Ale to już było",
+            "artist":"Maryla Rodowicz",
+            "bicie":"↓↓↑↑↓↑",
+            "file":"songs/AleToJuzBylo.txt",
+            "kapo":""
+        },
+        {
+            "id":"6",
+            "title":"Hiszpańskie dziewczyny",
+            "artist":"Szanty",
+            "bicie":"↓↓↑",
+            "file":"songs/HiszpanskieDziewczyny.txt",
+            "kapo":""
+        },
+        {
+            "id":"7",
+            "title":"Zawsze z tobą chciałbym być",
+            "artist":"Ich Troje",
+            "bicie":"Zwrotka: ↓↓↑↑↓↑  Refren: ↓↓↑",
+            "file":"songs/ZawszeZTobaChcialbymByc.txt",
+            "kapo":""
+        },
+        {
+            "id":"8",
+            "title":"Zanim pójdę",
+            "artist":"Happysad",
+            "bicie":"↓↓↑↑↓↑",
+            "file":"songs/ZanimPojde.txt",
+            "kapo":""
+        },
+        {
+            "id":"9",
+            "title":"Bitwa",
+            "artist":"Szanty",
+            "bicie":"↓↓↑↑↓↑",
+            "file":"songs/Bitwa.txt",
+            "kapo":""
+        },
+        {
+            "id":"10",
+            "title":"Baśka",
+            "artist":"Wilki",
+            "bicie":"↓↓↑↑↓↑",
+            "file":"songs/Baska.txt",
+            "kapo":""
+        },
+        {
+            "id":"11",
+            "title":"Agnieszka",
+            "artist":"Łzy",
+            "bicie":"↓↓↑↑↓↑",
+            "file":"songs/Agnieszka.txt",
+            "kapo":""
+        },
+        {
+            "id":"12",
+            "title":"Chodź pomaluj mój świat",
+            "artist":"Dwa plus Jeden",
+            "bicie":"↓↓↑↑↓↑",
+            "file":"songs/ChodzPomalujMojSwiat.txt",
+            "kapo":""
+        },
+        {
+            "id":"13",
+            "title":"Gdybym miał gitarę",
+            "artist":"Piosenki biesiadne",
+            "bicie":"↓↓↓ / ↓↓↑",
+            "file":"songs/GdybymMialGitare.txt",
+            "kapo":""
+        },
+        {
+            "id":"14",
+            "title":"Czarny chleb i czarna kawa",
+            "artist":"Strachy na lachy",
+            "bicie":"↓↓↑↑↓↑",
+            "file":"songs/CzarnyChlebICzarnaKawa.txt",
+            "kapo":""
         }
     ]
 }

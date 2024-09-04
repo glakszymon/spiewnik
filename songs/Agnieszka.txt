@@ -1,0 +1,38 @@
+<span class='linijka_tekstu'>Było <code class='nuta'>G</code>ciepłe lato choć <code class='nuta'>e</code>czasem padało</span><br>
+<span class='linijka_tekstu'>Dużo w<code class='nuta'>e</code>ina się piło i <code class='nuta'>C</code>mało się spało</span><br>
+<span class='linijka_tekstu'>Tak za<code class='nuta'>e</code>częła się waka<code class='nuta'>e</code>cyjna przygoda</span><br>
+<span class='linijka_tekstu'>On<code class='nuta'>C</code> był jeszcze młody i ona była młoda</span><br>
+<span class='linijka_tekstu'>Zako<code class='nuta'>G</code>chani przy świetle księ<code class='nuta'>e</code>życa nocami</span><br>
+<span class='linijka_tekstu'>Cho<code class='nuta'>e</code>dzili długimi le<code class='nuta'>C</code>śnymi ścieżkami</span><br>
+<span class='linijka_tekstu'>Tak mi<code class='nuta'>e</code>jały tygodnie, lecz roz<code class='nuta'>e</code>stania nadszedł czas</span><br>
+<span class='linijka_tekstu'>Zawsze <code class='nuta'>C</code>mówił jedno zdanie: "Moje śliczne ty kochanie"</span><br>
+<span class='linijka_tekstu'>Osta<code class='nuta'>G</code>tniego dnia tych pa<code class='nuta'>e</code>miętnych wakacji</span><br>
+<span class='linijka_tekstu'>Ko<code class='nuta'>e</code>chali się namiętnie w<code class='nuta'>C</code> męskiej ubikacji</span><br>
+<span class='linijka_tekstu'>I przy<code class='nuta'>e</code>sięgli przed Bogiem <code class='nuta'>e</code>miłość wzajemną</span><br>
+<span class='linijka_tekstu'>Że za <code class='nuta'>C</code>rok się spotkają i na zawsze ze sobą już <code class='nuta'>G</code>będą</span><br>
+<br>
+<span class="text-muted">przejście - wszystkie chwyty barowe</span><br>
+<code data-chord="G" data-suffix="" data-local="G">G</code> <code data-chord="e" data-suffix="m" data-local="e">e</code> <code data-chord="e" data-suffix="" data-local="e">e</code><br>
+<span class='linijka_tekstu'>Tęsknił z<code class='nuta'>G</code>a nią i pisał do niej<code class='nuta'>e</code> listy miłosne</span><br>
+<span class='linijka_tekstu'>W <code class='nuta'>e</code>samotności przeżył <code class='nuta'>C</code>jesień zimę wiosnę</span><br>
+<span class='linijka_tekstu'>Nie wy<code class='nuta'>e</code>trzymał do wakacji, postanow<code class='nuta'>e</code>ił ją odwiedzić</span><br>
+<span class='linijka_tekstu'>Bo<code class='nuta'>C</code> nie dostał już dawno od niej żadnej odpowiedzi</span><br>
+<span class='linijka_tekstu'>Gd<code class='nuta'>G</code>y przyjechał do jej domu po doś<code class='nuta'>e</code>ć długiej podróży</span><br>
+<span class='linijka_tekstu'>Cieszył<code class='nuta'>e</code> się że ją zobaczy w koń<code class='nuta'>C</code>cu tyle dla niej znaczy</span><br>
+<span class='linijka_tekstu'>Lecz gdy <code class='nuta'>e</code>ona go ujrzała szybko <code class='nuta'>e</code>się schowała</span><br>
+<span class='linijka_tekstu'>Drzwi mu <code class='nuta'>C</code>matka otworzyła no i tak mu powiedziała:</span><br>
+<br>
+<span class="text-muted">Ref.:</span><br>
+<span class='linijka_tekstu'>A<code class='nuta'>G</code>gnieszka już dawno <code class='nuta'>e</code>tutaj nie mie<code class='nuta'>e</code>szka... <span class="text-muted">x4</span></span><br>
+<br>
+<span class='linijka_tekstu'>Rozcz<code class='nuta'>G</code>arował się, bo takie są <code class='nuta'>e</code>zawody miłosne</span><br>
+<span class='linijka_tekstu'>Cie<code class='nuta'>e</code>rpiał całą jesień, zi<code class='nuta'>C</code>mę no i wiosnę</span><br>
+<span class='linijka_tekstu'>A gdy pr<code class='nuta'>e</code>zeszło mu zupełnie, pojech<code class='nuta'>e</code>ał na wakacje</span><br>
+<span class='linijka_tekstu'>W<code class='nuta'>C</code> tamto miejsce by zobaczy tę pamiętną ubikację</span><br>
+<span class='linijka_tekstu'>Ta<code class='nuta'>G</code>k się stało że przypadkiem ona<code class='nuta'>e</code> też tam była</span><br>
+<span class='linijka_tekstu'>Uc<code class='nuta'>e</code>ieszyła się ogromnie, gdy g<code class='nuta'>C</code>o tylko zobaczyła</span><br>
+<span class='linijka_tekstu'>Za<code class='nuta'>e</code>pytała się, czy w sercu jeg<code class='nuta'>e</code>o jest jeszcze Agnieszka</span><br>
+<span class='linijka_tekstu'>Od<code class='nuta'>C</code>powiedział jednym zdaniem: "Moje śliczne ty kochanie"</span><br>
+<br>
+<span class="text-muted">Ref.:</span><br>
+Agnieszka już dawno tutaj nie mieszka... <span class="text-muted">x4</span><br>

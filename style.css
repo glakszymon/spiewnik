@@ -22,7 +22,7 @@
 
     font-weight: 700;
     font-size: 100%;
-    word-break: break-word;
+    /* word-break: break-word; */
     position: relative;
     top: -1.4em;
     width: 0;
@@ -30,6 +30,13 @@
     color: #db261e;
 
     font-family: SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
+}
+
+.nutySeria {
+	font-weight: 700;
+	font-size: 100%;
+	color: #db261e;
+	font-family: SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
 }
 
 body{
@@ -41,7 +48,7 @@ body{
     position: absolute;
     right: 0px;
     min-width: 10rem;
-    background-color: aqua;
+    background-color: #83e36f;
     text-align: center;
     padding: 0.5rem;
 }
@@ -54,6 +61,7 @@ body{
     padding-inline: 1.5rem;
     padding-block: 0.5rem;
     cursor: pointer;
+    justify-content: space-between;
 }
 
 .optionMenu:hover{
@@ -63,7 +71,11 @@ body{
 
 .autorMenu{
     font-size: 1rem;
-    margin-left: 2rem;
+    /* margin-left: 2rem; */
+}
+
+.titleMenu{
+    margin-right: 2rem;
 }
 
 .openbtn{
@@ -81,6 +93,7 @@ body{
 header{
     background-color: #4cc633eb;
     padding-block: 0.1rem;
+    padding-left: 1rem;
 }
 
 body{

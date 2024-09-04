@@ -1,0 +1,69 @@
+<span class="text-muted">Wstęp</span><br>
+<code class='nutySeria'>e</code> <code class='nutySeria'>D</code> <code class='nutySeria'>G</code> <code class='nutySeria'>C</code><br>
+<code class='nutySeria'>e</code> <code class='nutySeria'>D</code> <code class='nutySeria'>C</code> <code class='nutySeria'>a</code><br>
+<br>
+<span class="text-muted">1 zwrotka</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code>Okręt nasz <code class='nuta'>D</code>wpłynął w mgłę <code class='nuta'>G</code>i fregaty <code class='nuta'>C</code>dwie</span><br>
+<span class='linijka_tekstu'>Popły<code class='nuta'>e</code>nęły <code class='nuta'>D</code>naszym kursem <code class='nuta'>C</code>by nie zgubić <code class='nuta'>a</code>się.</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code>Potem szkwał <code class='nuta'>D</code>wypchnął nas <code class='nuta'>G</code>poza mleczny <code class='nuta'>C</code>pas</span><br>
+<span class='linijka_tekstu'>I nikt <code class='nuta'>e</code>wtedy <code class='nuta'>d</code>nie przypuszczał, <code class='nuta'>C</code>że fregaty <code class='nuta'>a</code>śmierć nam niosą.</span><br>
+<br>
+<span class="text-muted">Refren</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>G</code>Ciepła <code class='nuta'>D</code>krew poleje <code class='nuta'>e</code>się stru<code class='nuta'>G</code>gami,</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>C</code>Wygra ten <code class='nuta'>D</code>kto utrzyma <code class='nuta'>e</code>ship.</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>G</code>W huku dział <code class='nuta'>D</code>ktoś przykryje <code class='nuta'>e</code>się fa<code class='nuta'>G</code>lami,</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>C</code>Jak da Bóg <code class='nuta'>D</code>ocalimy <code class='nuta'>e</code>bryg.</span><br>
+<br>
+<span class="text-muted">2 zwrotka</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code>Nagły huk <code class='nuta'>D</code>w uszach grał <code class='nuta'>G</code>i już atak <code class='nuta'>C</code>trwał,</span><br>
+<span class='linijka_tekstu'>To fre<code class='nuta'>e</code>gaty <code class='nuta'>D</code>uzbrojone <code class='nuta'>C</code>rzędem w setkę <code class='nuta'>a</code>dział.</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code>Czarny dym <code class='nuta'>D</code>spowił nas, <code class='nuta'>G</code>przyszedł śmierci <code class='nuta'>C</code>czas.</span><br>
+<span class='linijka_tekstu'>Krzyk i <code class='nuta'>e</code>lament <code class='nuta'>D</code>mych kamratów, <code class='nuta'>C</code>przerywany <code class='nuta'>a</code>ogniem katów.</span><br>
+<br>
+<span class="text-muted">Refren</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>G</code>Ciepła <code class='nuta'>D</code>krew poleje <code class='nuta'>e</code>się stru<code class='nuta'>G</code>gami,</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>C</code>Wygra ten <code class='nuta'>D</code>kto utrzyma <code class='nuta'>e</code>ship.</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>G</code>W huku dział <code class='nuta'>D</code>ktoś przykryje <code class='nuta'>e</code>się fa<code class='nuta'>G</code>lami,</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>C</code>Jak da Bóg <code class='nuta'>D</code>ocalimy <code class='nuta'>e</code>bryg.</span><br>
+<br>
+<span class="text-muted">3 zwrotka</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code>Pocisk nasz <code class='nuta'>D</code>trafił w maszt, <code class='nuta'>G</code>usłyszałem <code class='nuta'>C</code>trzask,</span><br>
+<span class='linijka_tekstu'>To ster<code class='nuta'>e</code>burtę <code class='nuta'>D</code>rozwaliła <code class='nuta'>C</code>jedna z naszych <code class='nuta'>a</code>salw.</span><br>
+<span class='linijka_tekstu'>"<code class='nuta'>e</code>Żagiel staw" <code class='nuta'>D</code>krzyknął ktoś, <code class='nuta'>G</code>znów piratów <code class='nuta'>C</code>złość,</span><br>
+<span class='linijka_tekstu'>Bo od <code class='nuta'>e</code>rufy <code class='nuta'>D</code>nam powiało, <code class='nuta'>C</code>a fregatom <code class='nuta'>a</code>w mordę wiało.</span><br>
+<br>
+<span class="text-muted">Refren</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>G</code>Ciepła <code class='nuta'>D</code>krew poleje <code class='nuta'>e</code>się stru<code class='nuta'>G</code>gami,</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>C</code>Wygra ten <code class='nuta'>D</code>kto utrzyma <code class='nuta'>e</code>ship.</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>G</code>W huku dział <code class='nuta'>D</code>ktoś przykryje <code class='nuta'>e</code>się fa<code class='nuta'>G</code>lami,</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>C</code>Jak da Bóg <code class='nuta'>D</code>ocalimy <code class='nuta'>e</code>bryg.</span><br>
+<br>
+<span class="text-muted">4 zwrotka</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code>Z fregat dwóch <code class='nuta'>D</code>tylko ta <code class='nuta'>G</code>pierwsza w pogoń <code class='nuta'>C</code>szła,</span><br>
+<span class='linijka_tekstu'>Wnet a<code class='nuta'>e</code>bordaż <code class='nuta'>D</code>rozpoczęli <code class='nuta'>C</code>gdy dopadli <code class='nuta'>a</code>nas.</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code>Szyper ich <code class='nuta'>D</code>dziury dwie <code class='nuta'>G</code>zrobił w swoim <code class='nuta'>C</code>dnie,</span><br>
+<span class='linijka_tekstu'>Nie po<code class='nuta'>e</code>mogło <code class='nuta'>D</code>to psubratom, <code class='nuta'>C</code>reszta z rei <code class='nuta'>a</code>zwisa za to.</span><br>
+<br>
+<span class="text-muted">Refren</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>G</code>Ciepła <code class='nuta'>D</code>krew poleje <code class='nuta'>e</code>się stru<code class='nuta'>G</code>gami,</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>C</code>Wygra ten <code class='nuta'>D</code>kto utrzyma <code class='nuta'>e</code>ship.</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>G</code>W huku dział <code class='nuta'>D</code>ktoś przykryje <code class='nuta'>e</code>się fa<code class='nuta'>G</code>lami,</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>C</code>Jak da Bóg <code class='nuta'>D</code>ocalimy <code class='nuta'>e</code>bryg.</span><br>
+<br>
+<span class="text-muted">5 zwrotka</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code>Po dziś dzień <code class='nuta'>D</code>tamtą mgłę <code class='nuta'>G</code>i fregaty <code class='nuta'>C</code>dwie,</span><br>
+<span class='linijka_tekstu'>Kiedy <code class='nuta'>e</code>noc za<code class='nuta'>D</code>myka oczy <code class='nuta'>C</code>widzę w swoim <code class='nuta'>a</code>śnie.</span><br>
+<span class='linijka_tekstu'><code class='nuta'>e</code>Tamci co <code class='nuta'>D</code>śpią na dnie, <code class='nuta'>G</code>uśmiechają <code class='nuta'>C</code>się,</span><br>
+<span class='linijka_tekstu'>Że ich <code class='nuta'>e</code>straszną <code class='nuta'>D</code>śmierć pomścili <code class='nuta'>C</code>bracia, którzy <code class='nuta'>a</code>zwyciężyli</span><br>
+<br>
+<span class="text-muted">Refren</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>G</code>Ciepła <code class='nuta'>D</code>krew poleje <code class='nuta'>e</code>się stru<code class='nuta'>G</code>gami,</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>C</code>Wygra ten <code class='nuta'>D</code>kto utrzyma <code class='nuta'>e</code>ship.</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>G</code>W huku dział <code class='nuta'>D</code>ktoś przykryje <code class='nuta'>e</code>się fa<code class='nuta'>G</code>lami,</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>C</code>Jak da Bóg <code class='nuta'>D</code>ocalimy <code class='nuta'>e</code>bryg.</span><br>
+<br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>G</code>Ciepła <code class='nuta'>D</code>krew poleje <code class='nuta'>e</code>się stru<code class='nuta'>G</code>gami,</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>C</code>Wygra ten <code class='nuta'>D</code>kto utrzyma <code class='nuta'>e</code>ship.</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>G</code>W huku dział <code class='nuta'>D</code>ktoś przykryje <code class='nuta'>e</code>się fa<code class='nuta'>G</code>lami,</span><br>
+<span class='linijka_tekstu'>&nbsp;&nbsp;&nbsp;<code class='nuta'>C</code>Jak da Bóg <code class='nuta'>D</code>ocalimy <code class='nuta'>e</code>bryg.</span><br>
+<br>

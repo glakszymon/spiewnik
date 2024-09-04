@@ -1,0 +1,58 @@
+
+Intro: <code class='nutySeria' >G</code> <code class='nutySeria' >F</code> <code class='nutySeria' >G</code> <code class='nutySeria' >F</code> <code class='nutySeria' >G</code><br>
+<span class='linijka_tekstu'>Z wielu <code class='nuta' >C</code>pieców się <code class='nuta' >G</code>jadło <code class='nuta' >C</code>chleb</span><br>
+<span class='linijka_tekstu'>Bo od <code class='nuta' >d </code>lat przyglądam się <code class='nuta' >G</code>światu</span><br>
+<span class='linijka_tekstu'>Nieraz <code class='nuta' >C</code>rano za<code class='nuta' >G</code>bolał <code class='nuta' >C</code>łeb</span><br>
+<span class='linijka_tekstu'>I mó<code class='nuta' >d </code>wili zmiana kli<code class='nuta' >G</code>matu</span><br>
+<span class='linijka_tekstu'>Czasem <code class='nuta' >e </code>trafił się wielki <code class='nuta' >d </code>raut</span><br>
+<span class='linijka_tekstu'>Albo <code class='nuta' >F</code>feta proleta<code class='nuta' >G</code>riatu</span><br>
+<span class='linijka_tekstu'>Czasem <code class='nuta' >e </code>podróż w najlepszym z <code class='nuta' >d </code>aut</span><br>
+<span class='linijka_tekstu'>Częściej <code class='nuta' >F</code>szare drogi po<code class='nuta' >G</code>wiatu</span><br>
+<br>
+<span class="text-muted">Ref.</span><br>
+<span class='linijka_tekstu'>Ale to już <code class='nuta' >F</code>było<code class='nuta' >G</code> i nie wróci <code class='nuta' >C</code>więcej</span><br>
+<span class='linijka_tekstu'>I choć <code class='nuta' >e </code>tyle się zdarzyło to do <code class='nuta' >F</code>przodu</span><br>
+<span class='linijka_tekstu'>Wciąż wyrywa głupie <code class='nuta' >C</code>serce</span><br>
+<span class='linijka_tekstu'>Ale to już <code class='nuta' >F</code>było<code class='nuta' >G</code>, znikło gdzieś za <code class='nuta' >C</code>nami</span><br>
+<span class='linijka_tekstu'>Choć w pa<code class='nuta' >e </code>pierach lat przybyło to na<code class='nuta' >F</code>prawdę</span><br>
+<span class='linijka_tekstu'>Wciąż jesteśmy tacy <code class='nuta' >C</code>sami</span><br>
+<br>
+PRZEJŚCIE: <code class='nutySeria' >G</code> <code class='nutySeria' >F</code> <code class='nutySeria' >G</code> <code class='nutySeria' >F</code> <code class='nutySeria' >G</code><br>
+<br>
+<span class='linijka_tekstu'>Na re<code class='nuta' >C</code>gale ko<code class='nuta' >G</code>lekcja <code class='nuta' >C</code>płyt</span><br>
+<span class='linijka_tekstu'>I wy<code class='nuta' >d </code>wiadów pełne ga<code class='nuta' >G</code>zety</span><br>
+<span class='linijka_tekstu'>Za ok<code class='nuta' >C</code>nami ko<code class='nuta' >G</code>lejny <code class='nuta' >C</code>świt</span><br>
+<span class='linijka_tekstu'>I w sy<code class='nuta' >d </code>pialni dzieci od<code class='nuta' >G</code>dechy</span><br>
+<span class='linijka_tekstu'>One <code class='nuta' >e </code>lecą droga do <code class='nuta' >d </code>gwiazd</span><br>
+<span class='linijka_tekstu'>Przez nie<code class='nuta' >F</code>bieski ocean <code class='nuta' >G</code>nieba</span><br>
+<span class='linijka_tekstu'>Ale <code class='nuta' >e </code>przecież za jakiś <code class='nuta' >d </code>czas</span><br>
+<span class='linijka_tekstu'>Będą <code class='nuta' >F</code>mogły same za<code class='nuta' >G</code>śpiewać</span><br>
+<br>
+<span class="text-muted">Ref.</span><br>
+<span class='linijka_tekstu'>Ale to już <code class='nuta' >F</code>było<code class='nuta' >G</code> i nie wróci <code class='nuta' >C</code>więcej</span><br>
+<span class='linijka_tekstu'>I choć <code class='nuta' >e </code>tyle się zdarzyło to do <code class='nuta' >F</code>przodu</span><br>
+<span class='linijka_tekstu'>Wciąż wyrywa głupie <code class='nuta' >C</code>serce</span><br>
+<span class='linijka_tekstu'>Ale to już <code class='nuta' >F</code>było<code class='nuta' >G</code>, znikło gdzieś za <code class='nuta' >C</code>nami</span><br>
+<span class='linijka_tekstu'>Choć w pa<code class='nuta' >e </code>pierach lat przybyło to na<code class='nuta' >F</code>prawdę</span><br>
+<span class='linijka_tekstu'>Wciąż jesteśmy tacy <code class='nuta' >C</code>sami<code class='nuta' >D</code>&nbsp;</span><br>
+<br>
+<span class="text-muted">Ref.</span><br>
+<span class='linijka_tekstu'>Ale to już <code class='nuta' >G</code>było<code class='nuta' >A</code> i nie wróci <code class='nuta' >D</code>więcej</span><br>
+<span class='linijka_tekstu'>I choć <code class='nuta' >fis</code>tyle się zdarzyło to do <code class='nuta' >G</code>przodu</span><br>
+<span class='linijka_tekstu'>Wciąż wyrywa głupie <code class='nuta' >D</code>serce<code class='nuta' >D</code>&nbsp;</span><br>
+<span class='linijka_tekstu'>Ale to już <code class='nuta' >G</code>było<code class='nuta' >A</code>, znikło gdzieś za <code class='nuta' >D</code>nami</span><br>
+<span class='linijka_tekstu'>Choć w pa<code class='nuta' >fis</code>pierach lat przybyło to na<code class='nuta' >G</code>prawdę</span><br>
+<span class='linijka_tekstu'>Wciąż jesteśmy tacy <code class='nuta' >D</code>sami<code class='nuta' >D</code>&nbsp;</span><br>
+<br>
+<span class="text-muted">Ref.</span><br>
+<span class='linijka_tekstu'>Ale to już <code class='nuta' >G</code>było<code class='nuta' >A</code> i nie wróci <code class='nuta' >D</code>więcej</span><br>
+<span class='linijka_tekstu'>I choć <code class='nuta' >fis</code>tyle się zdarzyło to do <code class='nuta' >G</code>przodu</span><br>
+<span class='linijka_tekstu'>Wciąż wyrywa głupie <code class='nuta' >D</code>serce<code class='nuta' >D</code>&nbsp;</span><br>
+<span class='linijka_tekstu'>Ale to już <code class='nuta' >G</code>było (ale to już było)<code class='nuta' >A</code>, znikło gdzieś za <code class='nuta' >D</code>nami</span><br>
+<span class='linijka_tekstu'>Choć w pa<code class='nuta' >fis</code>pierach lat przybyło to na<code class='nuta' >G</code>prawdę</span><br>
+<span class='linijka_tekstu'>Wciąż jesteście tacy <code class='nuta' >D</code>sami<code class='nuta' >D</code>&nbsp;</span><br>
+<br>
+<span class="text-muted">Ref.</span> kończący<br>
+<span class='linijka_tekstu'>Ale to już <code class='nuta' >G</code>było<code class='nuta' >A</code> i nie wróci <code class='nuta' >D</code>więcej</span><br>
+<span class='linijka_tekstu'>I choć <code class='nuta' >fis</code>tyle się zdarzyło to do <code class='nuta' >G</code>przodu...</span><br>
+<br>

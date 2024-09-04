@@ -44,82 +44,77 @@
         </button>
 
         <div id="Sidenav" class="sidenav">
-            <a onclick="loadData(0)" class="optionMenu">
+            <!-- <a onclick="loadData(0)" class="optionMenu">
                 <div class="titleMenu">
                     Zegarmistrz światła
                 </div>
                 <div class="autorMenu"> 
                     Kult
                 </div>
-            </a> <br>
-            <a onclick="loadData(1)" class="optionMenu">
+            </a> <br> -->
+            <!-- ------------------------------------------- -->
+            <!-- <a onclick="loadData(1)" class="optionMenu">
                 <div class="titleMenu">
                     Morskie opowieści
                 </div>
                 <div class="autorMenu"> 
                     Szanty
                 </div>
-            </a> <br>
-            <a onclick="loadData(2)" class="optionMenu">
+            </a> <br> -->
+            <!-- ------------------------------------------- -->
+            <!-- <a onclick="loadData(2)" class="optionMenu">
                 <div class="titleMenu">
                     24 Lutego
                 </div>
                 <div class="autorMenu"> 
                     Stare Dzwony
                 </div>
-            </a>
+            </a> -->
+            <!-- ------------------------------------------- -->
+            <!-- <a onclick="loadData(3)" class="optionMenu">
+                <div class="titleMenu">
+                    Cząstka
+                </div>
+                <div class="autorMenu">
+                    Sanah
+                </div>
+            </a> -->
+            <!-- ------------------------------------------- -->
         </div>
     </nav>
-    <!-- <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-        <i class="fa fa-bars"></i>
-    </a> -->
-
-    <main>
-
-        <!-- <a href="#example">Kliknij, aby przejść pod wskazany odnośnik</a> -->
-
-
-        <!-- <h2>Wybierz piosenkę:</h2>
-        <button onclick="loadPreviousSong()">Load previous song</button>
-        <button onclick="loadNextSong()">Load next song</button> -->
-        
-            <div>
-                <button class="intervalButton" id="increaseInterval">
-                    <img id="increaseIntervalButton" src="img/angle-small-up.png" alt="Zwiększ interwał">
-                </button>
-                <div class="counter">
-                    <div style="display: flex; align-items: center; width: fit-content;">
-                        <div id="intervalDisplay">Opóźnienie: 50 ms</div>
-                        <button id="scrollButton">
-                            <img id="scrollButtonImage" src="img/play-circle.png" alt="Przewiń na dół">
-                            <!-- Przewiń na dół -->
-                        </button>
-                    </div>
+    
+    <main>        
+        <div>
+            <button class="intervalButton" id="increaseInterval">
+                <img id="increaseIntervalButton" src="img/angle-small-up.png" alt="Zwiększ interwał">
+            </button>
+            <div class="counter">
+                <div style="display: flex; align-items: center; width: fit-content;">
+                    <div id="intervalDisplay">Opóźnienie: 50 ms</div>
+                    <button id="scrollButton">
+                        <img id="scrollButtonImage" src="img/play-circle.png" alt="Przewiń na dół">
+                        <!-- Przewiń na dół -->
+                    </button>
                 </div>
-                <button class="intervalButton" id="decreaseInterval">
-                    <img id="decreaseIntervalButton" src="img/angle-small-down.png" alt="Zmniejsz interwał">
-                </button>
             </div>
-        <!-- <br> -->
-        
-            
+            <button class="intervalButton" id="decreaseInterval">
+                <img id="decreaseIntervalButton" src="img/angle-small-down.png" alt="Zmniejsz interwał">
+            </button>
         </div>
-        <!-- <h1>Wyświetlanie Tekstu z Pliku</h1> -->
+     
         <h2 id="title"></h2>
         <h3 id="artist"></h3>
         <h3 id="bicie"></h3>
+        <h3 id="kapo"></h3>
         <div id="songContainer"></div>
-        <!-- Songs will be dynamically inserted here -->
-
 
     </main>
 
     <footer>
-        <p>© 2023 Śpiewnik</p>
+        <p>2024 Śpiewnik by Szymon Gawrylak</p>
     </footer>
 
-
     <script src="script.js"></script>
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/moveTo/1.8.2/moveTo.min.js"></script> -->
+
 </body>
 </html>
