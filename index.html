@@ -1,120 +1,226 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Śpiewnik</title>
-    <link rel="stylesheet" href="style.css">
-    
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Śpiewnik dla gitarzysty</title>
+  <script src="https://cdn.jsdelivr.net/npm/vue@3/dist/vue.global.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+    }
 
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 20px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    pre {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      background: #f4f4f4;
+      padding: 10px;
+      border-radius: 5px;
+      line-height: 1.6;
+      font-family: monospace;
+    }
+
+    .controls {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .controls button {
+      padding: 10px 15px;
+      font-size: 14px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .controls button:hover {
+      background-color: #ddd;
+    }
+
+    .scroll-container {
+        max-height: 700px;
+        overflow: auto; /* Włącz przewijanie */
+        position: relative;
+        cursor: grab; /* Wskaźnik do przeciągania */
+        min-width: 60%;
+    }
+
+    .scroll-container:active {
+        cursor: grabbing; /* Zmień wskaźnik podczas przeciągania */
+    }
+
+    .chord {
+      color: red;
+      font-weight: bold;
+    }
+
+    .strumming {
+      font-size: 15px;
+      font-weight: bold;
+    }
+
+    .capo {
+      color: green;
+      font-weight: bold;
+    }
+
+    .lyric {
+      color: black;
+    }
+
+    .song-menu {
+      margin-bottom: 20px;
+    }
+
+    .song-menu button {
+      display: block;
+      width: 100%;
+      margin-bottom: 5px;
+      padding: 10px;
+      font-size: 14px;
+      border-radius: 5px;
+      border: 1px solid #ddd;
+      cursor: pointer;
+    }
+
+    .song-menu button:hover {
+      background-color: #ddd;
+    }
+
+    .pionowo {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    </style>
 </head>
- 
-    
-    <!-- <span class="linijka_tekstu">A <div class="nuta">G</div> dziś osładzaj <div class="nuta">F</div> chwile</span>
-    <span class="linijka_tekstu">A dziś osładzaj <div class="nuta">F</div> chwile</span>
-    <span class="linijka_tekstu">A dziś <div class="nuta">a</div> osładzaj <div class="nuta">F</div> chwile</span> -->
-<!-- 
-        <span class='linijka_tekstu'><code class='nuta' >a</code>A kiedy przyjdzie także po <code class='nuta' >G</code>mnie</span>
-        <br>
-        <span class="linijka_tekstu"><code class="nuta" >D</code>Zegarmistrz światła purpu<code class="nuta" >a</code>rowy,</span>
-        <br>
-        <span class="linijka_tekstu"><code class="nuta" >C</code>By mi zabełtać bł<code class="nuta" >G</code>ękit w głowie,</span>
-        <br>
-        <span class="linijka_tekstu"><code class="nuta" >D</code>To będę jasny i go<code class="nuta" >a</code>towy.</span>
-        <br>
-        <span class="linijka_tekstu"><code class="nuta" >C</code>Spłyną przeze mnie dni na prze<code class="nuta" >G</code>strzał.</span>
-        <br>
-        <span class="linijka_tekstu"><code class="nuta" >D</code>Zgasną podłogi i powie<code class="nuta" >a</code>trza.</span>
-        <br>
-        <span class="linijka_tekstu"><code class="nuta" >C</code>Na wszystko jeszcze raz po<code class="nuta" >G</code>patrzę.</span>
-        <br>
-        <span class="linijka_tekstu"><code class="nuta" >D</code>I pójdę, nie wiem gdzie, na <code class="nuta" >a</code>zawsze...</span>
-         -->
+<body>
+  <div id="app">
+    <div class="container">
+      <h1>Śpiewnik</h1>
 
-
-
-    <header>
-        <h1>Śpiewnik</h1>
-        <div class="menu"></div>
-    </header>
-
-    <nav>
-        <button class="openbtn" onclick="openNav()">
-            <img src="img/menu1.png" class="imgMenu" id="menuSongs">
-        </button>
-
-        <div id="Sidenav" class="sidenav">
-            <!-- <a onclick="loadData(0)" class="optionMenu">
-                <div class="titleMenu">
-                    Zegarmistrz światła
-                </div>
-                <div class="autorMenu"> 
-                    Kult
-                </div>
-            </a> <br> -->
-            <!-- ------------------------------------------- -->
-            <!-- <a onclick="loadData(1)" class="optionMenu">
-                <div class="titleMenu">
-                    Morskie opowieści
-                </div>
-                <div class="autorMenu"> 
-                    Szanty
-                </div>
-            </a> <br> -->
-            <!-- ------------------------------------------- -->
-            <!-- <a onclick="loadData(2)" class="optionMenu">
-                <div class="titleMenu">
-                    24 Lutego
-                </div>
-                <div class="autorMenu"> 
-                    Stare Dzwony
-                </div>
-            </a> -->
-            <!-- ------------------------------------------- -->
-            <!-- <a onclick="loadData(3)" class="optionMenu">
-                <div class="titleMenu">
-                    Cząstka
-                </div>
-                <div class="autorMenu">
-                    Sanah
-                </div>
-            </a> -->
-            <!-- ------------------------------------------- -->
+      <div class="pionowo">
+        <div class="scroll-container" ref="scrollContainer">
+          <pre ref="songText" v-html="formattedLyrics"></pre>
         </div>
-    </nav>
-    
-    <main>        
         <div>
-            <button class="intervalButton" id="increaseInterval">
-                <img id="increaseIntervalButton" src="img/angle-small-up.png" alt="Zwiększ interwał">
-            </button>
-            <div class="counter">
-                <div style="display: flex; align-items: center; width: fit-content;">
-                    <div id="intervalDisplay">Opóźnienie: 50 ms</div>
-                    <button id="scrollButton">
-                        <img id="scrollButtonImage" src="img/play-circle.png" alt="Przewiń na dół">
-                        <!-- Przewiń na dół -->
-                    </button>
-                </div>
+          <div class="controls">
+            <div>
+              <button @click="setScrollSpeed(0)">Stop</button>
+              <button @click="setScrollSpeed(1)">Wolno</button>
+              <button @click="setScrollSpeed(2)">Średnio</button>
+              <button @click="setScrollSpeed(3)">Szybko</button>
             </div>
-            <button class="intervalButton" id="decreaseInterval">
-                <img id="decreaseIntervalButton" src="img/angle-small-down.png" alt="Zmniejsz interwał">
-            </button>
+          </div>
+
+          <div class="song-menu">
+            <label>Wybierz piosenkę:</label>
+            <div v-for="song in songs" :key="song">
+              <button @click="loadSongByButton(song)">{{ song }}</button>
+            </div>
+          </div>
         </div>
-     
-        <h2 id="title"></h2>
-        <h3 id="artist"></h3>
-        <h3 id="bicie"></h3>
-        <h3 id="kapo"></h3>
-        <div id="songContainer"></div>
 
-    </main>
+      </div>
+    </div>
+  </div>
 
-    <footer>
-        <p>2024 Śpiewnik by Szymon Gawrylak</p>
-    </footer>
+  <script>
+    const app = Vue.createApp({
+      data() {
+        return {
+          songs: ["Ballada_o_maturze.txt", "Chryzantemy_zlociste.txt", "Dabi_Dam_Dam.txt", "Song_Zuza.txt"], // Przykładowe pliki
+          lyrics: "",
+          keyOffset: 0,
+          scrollSpeed: 0,
+          intervalId: null,
+        };
+      },
+      computed: {
+        formattedLyrics() {
+          const lines = this.lyrics.split('\n');
+          let output = '';
 
-    <script src="script.js"></script>
+          if (lines.length > 0) {
+            output += `<div class='strumming'>${lines[0]}</div>`;
+          }
 
+          if (lines.length > 1) {
+            output += `<div class='capo'>${lines[1]}</div>`;
+          }
+
+          if (lines.length > 2) {
+            output += `<div class='capo'>${lines[2]}</div><br>`;
+          }
+
+          for (let i = 4; i < lines.length; i++) {
+            if (lines[i].trim() === '---') {
+              output += '<br>';
+            } else if (i % 2 === 0) {
+              output += `<div class='chord'>${lines[i]}</div>`;
+            } else {
+              output += `<div class='lyric'>${lines[i]}</div>`;
+            }
+          }
+
+          return output;
+        }
+      },
+      methods: {
+        loadSongByButton(song) {
+          fetch(`songs/${song}`)
+            .then(response => response.text())
+            .then(data => {
+              this.lyrics = data;
+              this.keyOffset = 0; // Reset transpozycji
+            })
+            .catch(error => console.error("Błąd wczytywania piosenki:", error));
+        },
+        transpose(amount) {
+          this.keyOffset += amount;
+        },
+        setScrollSpeed(speed) {
+          clearInterval(this.intervalId);
+          this.scrollSpeed = speed;
+          if (speed > 0) {
+            const scrollContainer = this.$refs.scrollContainer;
+            const scrollStep = speed * 1;
+            this.intervalId = setInterval(() => {
+              scrollContainer.scrollTop += scrollStep;
+              if (scrollContainer.scrollTop + scrollContainer.clientHeight >= scrollContainer.scrollHeight) {
+                clearInterval(this.intervalId);
+              }
+            }, 50);
+          }
+        }
+      },
+      beforeUnmount() {
+        clearInterval(this.intervalId);
+      }
+    });
+
+    app.mount('#app');
+  </script>
 </body>
 </html>
